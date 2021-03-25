@@ -1,5 +1,5 @@
 # Trying_out_Blockchain
-Blockchain with python and react js
+Building and learning Blockchain concepts with Python and ReactJS
 
-# Proof of Work
+## Proof of Work
 Used simple proof of work as consensus mechanism
