@@ -14,8 +14,9 @@ Building and learning Blockchain concepts with Python and ReactJS
 Used simple Proof of Work as consensus mechanism
 ### Proof of Work vs Proof of Stack
  - Proof of Work
-    - >
+    - > Uses cryptography algorithms such as SHA256 in order to keep integrity throughout the blockchain system. `Block` is created every predetermined interval in order to keep track of transactions that occured in the network. Each block's `nonce` is used to create individual block's hash value using SHA256 hash algorithm. If the miner finds out the hash value by trying out different `nonce`, reward is given out and the block is added to the chain network.
+
  - Proof of Stake
-    - > 
+    - > Uses similar cryptography algorithms in order to create hashes for newly created blocks. Specific node is chosen to verify the newly created block. In order to be one of the nodes that can be chosen, users stake, or send their currency in a private wallet, currency. More staked currency, higher the chance to be chosen to verify and validate the block. 
 
 ## source from [This Post](https://medium.com/@MKGOfficial/build-a-simple-blockchain-cryptocurrency-with-python-django-web-framework-reactjs-f1aebd50b6c)
