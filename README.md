@@ -1,4 +1,4 @@
-# Trying_out_Blockchain
+# Blockchain
 Building and learning Blockchain concepts with Python and ReactJS
 >> Source code from blog post noted below
 그리고 공부한 것들 정리.
