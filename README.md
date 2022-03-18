@@ -19,13 +19,5 @@ Used simple Proof of Work as consensus mechanism
  - Proof of Stake
     - > Uses similar cryptography algorithms in order to create hashes for newly created blocks. Specific node is chosen to verify the newly created block. In order to be one of the nodes that can be chosen, users stake, or send their currency in a private wallet, currency. More staked currency, higher the chance to be chosen to verify and validate the block. 
 
-### Proof of Burn(PoB)
-### Proof of Capacity
-### Proof of Elapsed Time
-### Stellar Consensus Protocol(Federated Byzantine Agreement[FBA])
-### Proof of Weight
-### SIEVE(Hyperledger Fabric)
-### Unique Node Lists(UNL)
-### Proof of Activity
 
 ## source from [This Post](https://medium.com/@MKGOfficial/build-a-simple-blockchain-cryptocurrency-with-python-django-web-framework-reactjs-f1aebd50b6c)
